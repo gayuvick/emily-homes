@@ -6,7 +6,7 @@ import { HousingLocation } from './housing-location';
 })
 export class HousingService {
 
-  url = "https://emily-homes.vercel.app/api/homes";
+  url = "https://emily-homes.vercel.app/api/locations";
 
   constructor() { }
 
